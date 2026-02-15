@@ -1,0 +1,5 @@
+python-lexicon source: file-without-copyright-information
+python-lexicon source: no-debian-changes
+python-lexicon source: source-contains-prebuilt-windows-binary
+python-lexicon source: source-is-missing
+python-lexicon source: source-package-encodes-python-version
